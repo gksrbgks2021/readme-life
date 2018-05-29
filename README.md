@@ -1,2 +1,2 @@
 # readme-life
-yap
+git config --global user.name "Han"
